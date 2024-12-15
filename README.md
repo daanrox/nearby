@@ -32,7 +32,7 @@ npm install
 Para iniciar o projeto no Expo, utilize o comando:
 
 ```bash
-expo start
+npx expo start
 ```
 sso abrirá o Metro Bundler no navegador. Escaneie o QR Code com seu dispositivo para iniciar o aplicativo.
 
